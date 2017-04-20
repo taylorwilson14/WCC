@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Wangari Maathai</title>
+    <meta charset='utf-8'>
+
+</head>
+<body>
+  <header>
+    <h1>Wangari Maathai<h1>
+      <img width='278.25' height='450' src='https://upload.wikimedia.org/wikipedia/commons/d/d8/Wangari_Maathai.jpg'>
+    </header>
+
+    <section>
+      <blockquote cite"https://en.wikipedia.org/wiki/Wangari_Maathai">
+        "I knew that we could not live with a political system that killed creativity, nurtured corruption, and produced people who were afraid of their own leaders.''
+      </blockquote>
+    </section>
+
+    <p>
+      Wangari Maathai was a pioneer for environmentalism and women's rights in Kenya. She founded the Green Belt Movement in 1977 whose focus was the promotion of both environmentalism and women's eqality in Kenya. She became one of the most famous women in Kenyan history as both a scientist and politican. Her contributions to both fields are <em>truly</em> remarkable.
+    </p>
+
+    <section>
+      <h2>Interesting Facts<h2>
+        <ol>
+          <li>In 1971 Wangari Maathai became the first Eastern African woman to receive a Phd. </li>
+          <li>She was awarded a Nobel Prize in 2004.</li>
+          <li>Wangari Maathai was a pioneer in fighting for democracy in Kenya.</li>
+          <li>She was elected to Parliament.</li>
+        </ol>
+      </section>
+
+      <section>
+        <h2>Learn More...</h2>
+        <ul>
+          <li> <a href='http://www.greenbeltmovement.org/'>The Green Belt Movement
+            <li> <a href='http://www.nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-bio.html'>Nobel Prize
+              <li> <a href='https://www.worldfuturecouncil.org/p/wangari-maathai/'>World Future Council
+              </ul>
+            </section>
+
+            <footer>
+              Created by The WCC
+            </footer>
+
+</body>
+</html>
